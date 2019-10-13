@@ -78,7 +78,7 @@ like this:
 ```markdown
 - author: John Doe
 - date: 2018-05-11
-- category: pyhton
+- category: python
 - tags: pip
 ```
 
