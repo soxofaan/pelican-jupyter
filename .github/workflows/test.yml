@@ -2,7 +2,7 @@ name: test
 
 on:
   push:
-    branches: [main]
+    branches: ["main", "issue135-failing-tests"]
   pull_request:
 #  schedule:
 #    - cron: "0 5 * * *"
